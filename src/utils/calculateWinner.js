@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 export const calculateWinner = (squares) => {
   // console.log({ squares })
   const lines = [
